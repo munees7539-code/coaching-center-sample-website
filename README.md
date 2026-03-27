@@ -49,5 +49,10 @@ A clean and engaging landing section highlighting:
  <img width="1809" height="765" alt="image" src="https://github.com/user-attachments/assets/3fdb4be4-65e4-4616-b2dc-180b092741e8" />
 
 
-
+📂project structure:
+--
+coaching center sample website
+│
+├── index.html
+├── README.md
 
