@@ -52,7 +52,8 @@ A clean and engaging landing section highlighting:
 📂project structure:
 --
 coaching center sample website
-│
-├── index.html
-├── README.md
+ │
+ ├── index.html
+ ├── README.md
 
+---
